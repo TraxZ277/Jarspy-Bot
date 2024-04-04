@@ -65,25 +65,25 @@ global.APIKeys = {
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.namaowner = 'Jarsépay' // owner name
-global.nomorowner = '6282148864989' // owner number
+global.namaowner = 'Ptraxzz' // owner name
+global.nomorowner = '6282187012530' // owner number
 global.namabot = 'Jarspy' // bot name
-global.nomorbot = '6287841972915' // bot number
+global.nomorbot = '6282187012530' // bot number
 
 global.wmtitle = 'Jarspy Bot' // title watermark is at the top
 global.wmbody = 'B y  J a r s é p a y' // body watermark is under the title
 global.thumbs = 'https://telegra.ph/file/476dabd35c800091e0357.jpg' // is this the main thumbnail
 // see the example use here https://telegra.ph/file/2042154c2ad625bb23c84.jpg
 
-global.sig = 'https://instagram.com/jarsepay' // your instagram
-global.sgh = 'https://github.com/jarsepay' // your github
-global.sgc = 'https://chat.whatsapp.com/KieFrG8MEt7C99IJKYS8qE' // your whatsapp group link
-global.sdc = 'https://s.id/aeonnixity' // your discord server (optional)
-global.sid = 'https://s.id/jarspy' // change it to anything, must be a https://... link
+global.sig = 'https://instagram.com/27ptrr' // your instagram
+global.sgh = 'https://github.com/' // your github
+global.sgc = 'https://chat.whatsapp.com/' // your whatsapp group link
+global.sdc = 'https://s.id/' // your discord server (optional)
+global.sid = 'https://s.id/' // change it to anything, must be a https://... link
 
 // sticker packname and author name
-global.packname = 'Contact Support: +62 821-4886-4989'
-global.author = 'By Jarsépay'
+global.packname = 'Contact Support: +62 821-8701-2530'
+global.author = 'By Ptraxz'
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
